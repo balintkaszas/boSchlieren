@@ -14,5 +14,9 @@ https://nbviewer.jupyter.org/github/balintkaszas/boSchlieren/blob/master/0322.ip
 
 https://nbviewer.jupyter.org/github/balintkaszas/boSchlieren/blob/master/0329.ipynb
 
+### 0404:
+
+https://nbviewer.jupyter.org/github/balintkaszas/boSchlieren/blob/master/0404.ipynb
+
 
 
